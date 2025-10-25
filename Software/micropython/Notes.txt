@@ -1,1 +1,2 @@
 Olá isso é um bloco de anotações
+display.flip - inverte o display
